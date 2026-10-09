@@ -1,3 +1,6 @@
+> [!WARNING]
+> **PUBLIC REPOSITORY - PLEASE CHANGE IT TO PRIVATE**
+
 # Run an AI Vocie Agent with Azure, Kubernetes and LiveKit
 
 In this repo contains the deployment manifests to set up a LiveKit AI Agent in Azure.
